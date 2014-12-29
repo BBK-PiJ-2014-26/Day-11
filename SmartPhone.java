@@ -1,4 +1,4 @@
-public class SmartPhone extends MobilePhone {
+public class SmartPhone extends MobilePhone implements Phone {
 
 	/**
 	* Constructor method.

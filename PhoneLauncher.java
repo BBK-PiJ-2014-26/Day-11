@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class PhoneLauncher {
-	private SmartPhone myPhone;
+	private Phone myPhone;
 
 	public PhoneLauncher() {
 		this.myPhone = new SmartPhone("nokia");

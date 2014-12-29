@@ -1,4 +1,4 @@
-public class OldPhone implements Phone {
+public class OldPhone {
 	private String brand = null;
 
 	public OldPhone(String brand) {
